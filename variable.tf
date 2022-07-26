@@ -3,10 +3,10 @@ variable "aws-region" {
   default     = "us-east-1"
 }
 variable "access-key" {
-  default ="AKIAV34IJCION3OR3C7R"
+  default =""
 }
 variable "secret-key" {
-  default = "fIoAoVr8L5UkzIgfE+otNFNd+qcSZr7+G2XDiCr9"
+  default = ""
 }
 variable "ecs_task_execution_role_name" {
   default = "ecs-task-execution-role"
